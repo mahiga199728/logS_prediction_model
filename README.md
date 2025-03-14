@@ -1,1 +1,1 @@
-LogS Prediction Model
+Solubility plays a critical role in the success of a drug candidate. The aqueous solubility of a compound refers to its ability to dissolve in water, which is important because the majority of drugs must dissolve in bodily fluids before they can be absorbed through biological membranes. Low solubility often leads to challenges in the drug development process, particularly in oral drug formulations
